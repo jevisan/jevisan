@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jevisan
+- 👀 I’m interested in web development, game design & data science
+- 🌱 I’m currently learning UI/UX design
+- 💞️ I’m looking to collaborate on creative and innovative
+- 📫 hit me on twitter @jevsan85
